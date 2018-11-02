@@ -1,0 +1,5 @@
+{
+  "salmon.transcript_file": "s3://starbuck1/abc/gencode.v29.transcripts.fa.gz",
+  "salmon.fastqs": ["s3://starbuck1/abc/SRR000236_2.fastq.gz", "s3://starbuck1/abc/SRR000235_2.fastq.gz", "s3://starbuck1/abc/SRR000237_2.fastq.gz", "s3://starbuck1/abc/DRR000897_1.fastq.gz"],
+  "salmon.gencode_gtf": "s3://starbuck1/abc/gencode.v29.annotation.gtf"
+}

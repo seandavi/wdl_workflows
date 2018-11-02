@@ -1,0 +1,11 @@
+{
+  "salmon.salmon_quant.dollar": "String (optional, default = \"$\")",
+  "salmon.salmon_index.dollar": "String (optional, default = \"$\")",
+  "salmon.fastqs": "Array[File]",
+  "salmon.transcript_file": "File",
+  "salmon.bootstraps": "Int (optional, default = 25)",
+  "salmon.kmer": "Int (optional, default = 31)",
+  "salmon.gencode_gtf": "File? (optional)",
+  "salmon.transcript_index": "String (optional, default = \"transcript_index\")"
+}
+

@@ -1,0 +1,5 @@
+{
+  "salmon.transcript_file": "t.fa",
+  "salmon.fastqs": ["SRR000236_2.fastq.gz", "SRR000235_2.fastq.gz", "SRR000237_2.fastq.gz", "DRR000897_1.fastq.gz"],
+  "salmon.gencode_gtf": "gencode.v29.annotation.gtf"
+}
